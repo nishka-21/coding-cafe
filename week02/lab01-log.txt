@@ -1,0 +1,16 @@
+  103  python3 -m venv .venv
+  104  ls
+  105  ls -a
+  106  source .venv/bin/activate
+  107  which python3
+  108  pip list
+  109  pip install requests
+  110  pip list
+  111  deactivate
+  112  deactivate
+  113  which python3
+  114  man ls
+  115  man man
+  116  cd cod
+  117  cd coding-cafehistory > week02/lab01-log.txt
+  118  history > week02/lab01-log.txt
